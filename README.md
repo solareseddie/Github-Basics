@@ -1,4 +1,4 @@
 # Headline
 Sample text
 ## Smaller Headline
-Additional text. Readme uses markdown language.
+Additional text. Readme uses markdown .md language.
